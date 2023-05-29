@@ -12,7 +12,7 @@ Esse arquivo inclui informações do **repositório/projeto** como:
 6. Contato para usuários que tiverem dúvidas sobre o projeto;
 
 ## Sumário de conteúdo
-aaa
+
 1. [Em qual linguagem é feito o README.md?](#em-qual-linguagem-é-feito-o-readmemd)
 2. [Como escrever em Markdown?](#como-escrever-em-markdown)
    1. [Títulos](#títulos-em-markdown)
@@ -23,8 +23,9 @@ aaa
    6. [Blocos de código](#blocos-de-código-em-markdown)
    7. [Linhas Horizontais](#linhas-horizontais-em-markdown)
 
+---
 
-## Em qual linguagem é feito o README.md?
+# Em qual linguagem é feito o README.md?
 
 O README é escrito na linguagem Markdown, uma linguagem de marcação que converte o texto
 escrito para um HTML. Por isso que a extensão do arquivo readme é .md, que vem de Markdown.
@@ -42,6 +43,7 @@ utilizam os seguintes caracteres para estilização: #, \, *, !, [ ], ( ).
 
 Vamos aprender um pouquinho mais sobre o uso deles abaixo!
 
+---
 ## Títulos em Markdown
 
 Os títulos são usados para indicar seções principais em um documento. Em Markdown são escritos utilizando as hashtags #, de forma que
@@ -66,6 +68,8 @@ Resultado:
 #### Título nível 4
 ##### Título nível 5
 ###### Título nível 6
+
+---
 
 ## Formatando textos em Markdown
 
@@ -114,6 +118,8 @@ Exemplo:
 Resultado:
 
 Um exemplo do ~~texto riscado~~
+
+---
 
 ## Listas em Markdown
 
@@ -185,6 +191,8 @@ Além disso, link também pode ser utilizado para redirecionar o usuário a arqu
 [Pasta imagens](https://github.com/joaosilvacruz/tutorial-readme/tree/main/imagens)
 ```
 
+---
+
 ## Imagens em Markdown
 
 Para inserir imagens com markdown é bem-parecido com a inserção de links visto anteriormente, bastando apenas adicionar uma exclamação `!` na frente dos colchetes.
@@ -208,6 +216,8 @@ OBS2.: Veja que como URL coloquei uma imagem que está no meu próprio repositó
 Resultado: 
 
 ![Imagem do meu perfil do meu linkedin](https://github.com/joaosilvacruz/tutorial-readme/blob/main/imagens/linkedin.jpg)
+
+---
 
 ## Blocos de código em Markdown
 
@@ -253,6 +263,8 @@ if (tutorial == "completo") {
         System.out.println("Complete o tutorial!")
     }
 ```
+
+---
 
 ## Linhas Horizontais em Markdown
 
