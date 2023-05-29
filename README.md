@@ -11,12 +11,25 @@ Esse arquivo inclui informações do **repositório/projeto** como:
 5. Quem contribuiu com o projeto;
 6. Contato para usuários que tiverem dúvidas sobre o projeto;
 
+## Sumário de conteúdo
+aaa
+1. [Em qual linguagem é feito o README.md?](#em-qual-linguagem-é-feito-o-readmemd)
+2. [Como escrever em Markdown?](#como-escrever-em-markdown)
+   1. [Títulos](#títulos-em-markdown)
+   2. [Formatação de textos](#formatando-textos-em-markdown)
+   3. [Listas](#listas-em-markdown)
+   4. [Links](#links-em-markdown)
+   5. [Imagens](#imagens-em-markdown)
+   6. [Blocos de código](#blocos-de-código-em-markdown)
+   7. [Linhas Horizontais](#linhas-horizontais-em-markdown)
+
+
 ## Em qual linguagem é feito o README.md?
 
 O README é escrito na linguagem Markdown, uma linguagem de marcação que converte o texto
 escrito para um HTML. Por isso que a extensão do arquivo readme é .md, que vem de Markdown.
 
-## Como escrever em Markdown?
+# Como escrever em Markdown?
 
 Por o readme ser feito utilizando Markdown, o caminho para um bom readme é
 saber como escrever em Markdown, concorda?
@@ -29,7 +42,7 @@ utilizam os seguintes caracteres para estilização: #, \, *, !, [ ], ( ).
 
 Vamos aprender um pouquinho mais sobre o uso deles abaixo!
 
-### Como escrever Títulos
+## Títulos em Markdown
 
 Os títulos são usados para indicar seções principais em um documento. Em Markdown são escritos utilizando as hashtags #, de forma que
 a quantidade de hashtags que iremos utilizar é igual ao nível do título.
@@ -102,7 +115,7 @@ Resultado:
 
 Um exemplo do ~~texto riscado~~
 
-## Listas
+## Listas em Markdown
 
 ### Listas Não Ordenadas
 
@@ -144,7 +157,7 @@ Resultado:
 2. Item 2
 3. Item 3
 
-## Links
+## Links em Markdown
 
 Para criar links no markdown você precisa combinar o uso de colchetes `[ ]` com os parenteses `( )`e formar a seguinte sintaxe:
 
@@ -172,7 +185,7 @@ Além disso, link também pode ser utilizado para redirecionar o usuário a arqu
 [Pasta imagens](https://github.com/joaosilvacruz/tutorial-readme/tree/main/imagens)
 ```
 
-## Imagens
+## Imagens em Markdown
 
 Para inserir imagens com markdown é bem-parecido com a inserção de links visto anteriormente, bastando apenas adicionar uma exclamação `!` na frente dos colchetes.
 
@@ -196,7 +209,7 @@ Resultado:
 
 ![Imagem do meu perfil do meu linkedin](https://github.com/joaosilvacruz/tutorial-readme/blob/main/imagens/linkedin.jpg)
 
-## Blocos de código
+## Blocos de código em Markdown
 
 Em alguns momentos pode ser que você deseje colocar blocos de código no seu readme para explicar alguma parte do código específico, assim como eu fiz com os comandos nesse tutorial.
 
@@ -216,7 +229,7 @@ Destacando o comando `System.out.prinln`
 
 ### Códigos em múltiplas linhas
 
-Caso você deseje destacar um grande trecho de código, utiliza-se três crases <code> ```</code> antes e depois do bloco de código desejado.
+Caso você deseje destacar um grande trecho de código, utiliza-se três crases <code>```</code> antes e depois do bloco de código desejado.
 
 Exemplo:
 
@@ -224,13 +237,11 @@ Exemplo:
 \```
 
 if (tutorial == "completo") {
-
 System.out.println("Parabéns! Você aprendeu tudo!);
-
 } else {
-
 System.out.println("Complete o tutorial!")
 }
+
 \```
 
 Resultado:
@@ -243,7 +254,7 @@ if (tutorial == "completo") {
     }
 ```
 
-## Linhas Horizontais
+## Linhas Horizontais em Markdown
 
 Caso você deseje separar seções do seu documento, as linhas horizontais são ótimas!
 
