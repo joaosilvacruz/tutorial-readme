@@ -162,9 +162,47 @@ Resultado:
 
 [Visite o meu github](https://github.com/joaosilvacruz).
 
-Assim, você clicar no título do link e ir a página que deseja!
+Assim, você clicar no título do link e ir à página que deseja!
+
+### Links de arquivos do repositório
+
+Além disso, link também pode ser utilizado para redirecionar o usuário a arquivos do seu próprio repositório. Utilizando a mesma estrutura e repassando a URL do arquivo desejado.
+
+```
+[Pasta imagens](https://github.com/joaosilvacruz/tutorial-readme/tree/main/imagens)
+```
 
 ## Imagens
+
+Para inserir imagens com markdown é bem-parecido com a inserção de links visto anteriormente, bastando apenas adicionar uma exclamação `!` na frente dos colchetes.
+
+A sintaxe é:
+
+```
+![Descrição da imagem](URL da imagem)
+```
+
+**OBS.: Atente-se a digitar uma boa descrição da imagem para garantir a acessibilidade**
+
+Exemplo:
+
+```
+![Imagem do meu perfil do meu linkedin](https://github.com/joaosilvacruz/tutorial-readme/blob/main/imagens/linkedin.jpg)
+```
+
+OBS2.: Veja que como URL coloquei uma imagem que está no meu próprio repositório. Você pode colocar dessa forma ou de imagens de outras fontes.
+
+Resultado: 
+
+![Imagem do meu perfil do meu linkedin](https://github.com/joaosilvacruz/tutorial-readme/blob/main/imagens/linkedin.jpg)
+
+
+
+
+
+
+
+
 
 
 
