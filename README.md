@@ -196,6 +196,77 @@ Resultado:
 
 ![Imagem do meu perfil do meu linkedin](https://github.com/joaosilvacruz/tutorial-readme/blob/main/imagens/linkedin.jpg)
 
+## Blocos de código
+
+Em alguns momentos pode ser que você deseje colocar blocos de código no seu readme para explicar alguma parte do código específico, assim como eu fiz com os comandos nesse tutorial.
+
+### Códigos em linha
+
+Podemos criar códigos em linha (inline) adicionando um acento crase <code>`</code> antes e depois do comando em destaque, da seguinte forma:
+
+Exemplo:
+
+```
+Destacando o comando `System.out.prinln`
+```
+
+Resultado:
+
+Destacando o comando `System.out.prinln`
+
+### Códigos em múltiplas linhas
+
+Caso você deseje destacar um grande trecho de código, utiliza-se três crases <code> ```</code> antes e depois do bloco de código desejado.
+
+Exemplo:
+
+
+\```
+
+if (tutorial == "completo") {
+
+System.out.println("Parabéns! Você aprendeu tudo!);
+
+} else {
+
+System.out.println("Complete o tutorial!")
+}
+\```
+
+Resultado:
+
+```
+if (tutorial == "completo") {
+    System.out.println("Parabéns! Você aprendeu tudo!);
+    } else {
+        System.out.println("Complete o tutorial!")
+    }
+```
+
+## Linhas Horizontais
+
+Caso você deseje separar seções do seu documento, as linhas horizontais são ótimas!
+
+Para criar uma é bem simples, basta digitar três ou mais hífens em uma linha separada `---`.
+
+Exemplo: 
+
+```
+Texto a ser separado
+
+---
+
+Texto a ser separado
+```
+
+Resultado:
+
+Texto a ser separado
+
+---
+
+Texto a ser separado
+
 
 
 
