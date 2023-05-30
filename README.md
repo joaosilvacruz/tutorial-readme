@@ -292,14 +292,20 @@ Texto a ser separado
 
 # Tabela resumo dos principais comandos
 
-| Formatação | Sintaxe do comando                                                                                                                     | Resultado do comando   |
-|------------|----------------------------------------------------------------------------------------------------------------------------------------|------------------------|
-| Títulos 	  | \# (título nível 1), <br/>\## ( títulonível 2), <br/>\### (título nível 3), <br/>\#### (título nível 4),<br/> \##### (título nível 5)	 | <h2>Título nv 2</h2>	  |
-| Negrito    | \**Texto em negrito\** 	                                                                                                               | **Texto em negrito** 	 |
-| Itálico    | \_\_Texto em itálico\_\_ 	                                                                                                             | **Texto em itálico** 	 |
-| Negrito    | \**Texto em negrito\** 	                                                                                                               | **Texto em negrito** 	 |
-| Rasurado   | \~\~Texto rasurado\~\~ 	                                                                                                               | ~~Texto rasurado~~ 	   |
-
+|                Formatação                 | Sintaxe do comando                                                                                                                     | Resultado do comando                                                                                                          |
+|:-----------------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+|                 Títulos 	                 | \# (título nível 1), <br/>\## ( títulonível 2), <br/>\### (título nível 3), <br/>\#### (título nível 4),<br/> \##### (título nível 5)	 | <h2>Título nv 2</h2>	                                                                                                         |
+|                  Negrito                  | \**Texto em negrito\** 	                                                                                                               | **Texto em negrito** 	                                                                                                        |
+|                  Itálico                  | \_\_Texto em itálico\_\_ 	                                                                                                             | **Texto em itálico** 	                                                                                                        |
+|                  Negrito                  | \**Texto em negrito\** 	                                                                                                               | **Texto em negrito** 	                                                                                                        |
+|                 Rasurado                  | \~\~Texto rasurado\~\~ 	                                                                                                               | ~~Texto rasurado~~ 	                                                                                                          |
+|          Listas Não Ordenadas 	           | \- Item1   <br/> \- Item 2 <br/> \- Item 3	                                                                                            | <ul><li>Item1</li><li>Item2</li><li>Item2</li>  	                                                                             |
+|            Listas Ordenadas  	            | 1. Item 1   <br/> 2. Item 2 <br/> 3. Item 3	                                                                                           | <ol><li>Item 1</li><li>Item 2</li><li>Item 3</li>   	                                                                         |
+| Link para sites/arquivos do repositório 	 | \[Título do link](URL do link)                                                                                                         | [Visite o meu github](https://github.com/joaosilvacruz)   	                                                                   |
+|                 Imagens 	                 | \!\[Descrição da imagem](URL da imagem)                                                                                                | ![Imagem do meu perfil do meu linkedin](https://github.com/joaosilvacruz/tutorial-readme/blob/main/imagens/linkedin-icon.png) |
+|        Blocos de código simples 	         | \`Bloco de código simples\`                                                                                                            | `Bloco de código simples`                                                                                                     |
+|    Blocos de código múltiplas linhas 	    | \`\`\`<br/>código<br/>Várias<br/>linhas<br/>\`\`\`                                                                                     | <pre>código<br/>várias <br/>linhas</pre>                                                                                      |
+|         Linhas Horizontais 	              | ---                                                                                                                                    |                                                                                                                               |
 
 
 
