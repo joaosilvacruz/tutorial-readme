@@ -14,7 +14,8 @@ Esse arquivo inclui informações do **repositório/projeto** como:
 ## Sumário de conteúdo
 
 1. [Em qual linguagem é feito o README.md?](#em-qual-linguagem-é-feito-o-readmemd)
-2. [Como escrever em Markdown?](#como-escrever-em-markdown)
+2. [Como criar um README.md](#criando-um-readme)
+3. [Como escrever em Markdown?](#como-escrever-em-markdown)
    1. [Títulos](#títulos-em-markdown)
    2. [Formatação de textos](#formatando-textos-em-markdown)
    3. [Listas](#listas-em-markdown)
