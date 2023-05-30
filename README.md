@@ -39,7 +39,7 @@ Caso você ainda não saiba criar um Readme, não se preocupe! Iremos te ensinar
 2. Ao estar na página do repositório, observe que no canto inferior direito haverá um botão com a frase "ADD a README". Basta clicar nele!
 
 **Confira a imagem abaixo para visualizar o botão:**
-![Imagem da página inicial de um repositório com o botão "ADD a README" no canto inferior direito](https://github.com/joaosilvacruz/tutorial-readme/blob/main/imagens/img-readme.jpg)
+![Imagem da página inicial de um repositório com o botão "ADD a README" no canto inferior direito](https://github.com/joaosilvacruz/tutorial-readme/blob/main/imagens/add-readme.png)
 
 3. Ao clicar no botão ADD a Readme, o Github te levará para a página de edição do README, nela é possível **escrever seu texto em markdown** e também é possível **visualizar como está ficando**.
 
