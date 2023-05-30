@@ -23,6 +23,7 @@ Esse arquivo inclui informações do **repositório/projeto** como:
    5. [Imagens](#imagens-em-markdown)
    6. [Blocos de código](#blocos-de-código-em-markdown)
    7. [Linhas Horizontais](#linhas-horizontais-em-markdown)
+4. [TABELA DOS PRINCIPAIS COMANDOS](#tabela-resumo-dos-principais-comandos)
 
 ---
 
