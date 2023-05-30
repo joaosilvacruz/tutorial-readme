@@ -292,10 +292,13 @@ Texto a ser separado
 
 # Tabela resumo dos principais comandos
 
-| Formatação | Sintaxe do comando                                                                                                                     | Resultado do comando  |
-|------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
-| Títulos 	  | \# (título nível 1), <br/>\## ( títulonível 2), <br/>\### (título nível 3), <br/>\#### (título nível 4),<br/> \##### (título nível 5)	 | <h2>Título nv 2</h2>	 |
-
+| Formatação | Sintaxe do comando                                                                                                                     | Resultado do comando   |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+| Títulos 	  | \# (título nível 1), <br/>\## ( títulonível 2), <br/>\### (título nível 3), <br/>\#### (título nível 4),<br/> \##### (título nível 5)	 | <h2>Título nv 2</h2>	  |
+| Negrito    | \**Texto em negrito\** 	                                                                                                               | **Texto em negrito** 	 |
+| Itálico    | \_\_Texto em itálico\_\_ 	                                                                                                             | **Texto em itálico** 	 |
+| Negrito    | \**Texto em negrito\** 	                                                                                                               | **Texto em negrito** 	 |
+| Rasurado   | \~\~Texto rasurado\~\~ 	                                                                                                               | ~~Texto rasurado~~ 	   |
 
 
 
